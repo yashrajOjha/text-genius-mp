@@ -1,4 +1,4 @@
-# Team-02-Hybrid-DL-Tools-For-Multifarious-NLP-Applications
+# Text Genius
 Adavanced AI app for text summarization, catchy image caption generation, multilingual named entity recognition in 6 indian languages.
 
 We have developed an advanced AI app, TextGenius which has versatile NLP applications that empowers you to effortlessly generate sensible Instagramish captions, create concise text summaries, and identify named entities in multiple Indian languages. With a combination of cutting-edge technologies, including VGG16, LSTM, and Transformer models like (T5 for Summarization and XLM-Roberta for NER capabilities), TextGenius offers powerful and state-of-the-art capabilities for a wide range of text-related tasks.
